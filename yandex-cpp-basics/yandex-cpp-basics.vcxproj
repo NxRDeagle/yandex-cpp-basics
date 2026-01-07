@@ -123,12 +123,24 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1.10sum-of-digits.cpp" />
+    <ClCompile Include="1.11ln2.cpp" />
+    <ClCompile Include="1.12passwords.cpp" />
+    <ClCompile Include="1.13soundex.cpp" />
+    <ClCompile Include="1.14reverse-permutation.cpp" />
+    <ClCompile Include="1.15descending-sort.cpp" />
+    <ClCompile Include="1.16palindromes.cpp" />
+    <ClCompile Include="1.17sapper.cpp" />
+    <ClCompile Include="1.18argmax-in-matrix.cpp" />
     <ClCompile Include="1.1text-printing.cpp" />
     <ClCompile Include="1.2sum.cpp" />
     <ClCompile Include="1.3inches.cpp" />
     <ClCompile Include="1.4arithmetic-progression.cpp" />
     <ClCompile Include="1.5queens-move.cpp" />
     <ClCompile Include="1.6right-triangle.cpp" />
+    <ClCompile Include="1.7leap-year.cpp" />
+    <ClCompile Include="1.8days-in-month.cpp" />
+    <ClCompile Include="1.9calendar-printing.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

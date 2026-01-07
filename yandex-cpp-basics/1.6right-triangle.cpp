@@ -1,6 +1,6 @@
-﻿#include <iostream>
+#include <iostream>
 #include <algorithm>
-#define ACTIVE_MAIN
+
 
 #ifdef ACTIVE_MAIN
 int main() {
