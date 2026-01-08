@@ -132,7 +132,12 @@
     <ClCompile Include="1.16palindromes.cpp" />
     <ClCompile Include="1.17sapper.cpp" />
     <ClCompile Include="1.18argmax-in-matrix.cpp" />
+    <ClCompile Include="1.19common-prefix.cpp" />
     <ClCompile Include="1.1text-printing.cpp" />
+    <ClCompile Include="1.20split-function.cpp" />
+    <ClCompile Include="1.21join-function.cpp" />
+    <ClCompile Include="1.22matrix-transponse.cpp" />
+    <ClCompile Include="1.23point-sorting.cpp" />
     <ClCompile Include="1.2sum.cpp" />
     <ClCompile Include="1.3inches.cpp" />
     <ClCompile Include="1.4arithmetic-progression.cpp" />

@@ -1,7 +1,6 @@
 #include <iostream>
 #include <vector>
 #include <limits>
-#define ACTIVE_MAIN
 
 static std::pair<size_t, size_t> MatrixArgMax(const std::vector<std::vector<int>>& matrix) {
 	if (matrix.empty())
