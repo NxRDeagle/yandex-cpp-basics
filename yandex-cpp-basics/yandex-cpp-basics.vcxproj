@@ -146,6 +146,11 @@
     <ClCompile Include="1.7leap-year.cpp" />
     <ClCompile Include="1.8days-in-month.cpp" />
     <ClCompile Include="1.9calendar-printing.cpp" />
+    <ClCompile Include="2.1template-print.cpp" />
+    <ClCompile Include="2.2work-check.cpp" />
+    <ClCompile Include="2.3wagons.cpp" />
+    <ClCompile Include="2.4ctrl-x-ctrl-v.cpp" />
+    <ClCompile Include="2.5ctrl-x-ctrl-v-2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

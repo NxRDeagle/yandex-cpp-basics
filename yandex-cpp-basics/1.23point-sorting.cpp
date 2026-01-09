@@ -1,7 +1,6 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-#define ACTIVE_MAIN
 
 struct Point {
 private: 
