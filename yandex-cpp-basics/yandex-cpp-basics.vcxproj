@@ -102,6 +102,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -146,11 +147,16 @@
     <ClCompile Include="1.7leap-year.cpp" />
     <ClCompile Include="1.8days-in-month.cpp" />
     <ClCompile Include="1.9calendar-printing.cpp" />
+    <ClCompile Include="2.10symbolic-n-grams.cpp" />
     <ClCompile Include="2.1template-print.cpp" />
     <ClCompile Include="2.2work-check.cpp" />
     <ClCompile Include="2.3wagons.cpp" />
     <ClCompile Include="2.4ctrl-x-ctrl-v.cpp" />
     <ClCompile Include="2.5ctrl-x-ctrl-v-2.cpp" />
+    <ClCompile Include="2.6duplicate-numbers.cpp" />
+    <ClCompile Include="2.7common-letters.cpp" />
+    <ClCompile Include="2.8file-system.cpp" />
+    <ClCompile Include="2.9subject-index.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

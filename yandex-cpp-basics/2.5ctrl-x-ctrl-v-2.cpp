@@ -1,7 +1,6 @@
 #include <iostream>
 #include <list>
 #include <string>
-#define ACTIVE_MAIN
 
 #ifdef ACTIVE_MAIN
 int main() {
