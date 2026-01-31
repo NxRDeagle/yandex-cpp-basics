@@ -148,6 +148,9 @@
     <ClCompile Include="1.8days-in-month.cpp" />
     <ClCompile Include="1.9calendar-printing.cpp" />
     <ClCompile Include="2.10symbolic-n-grams.cpp" />
+    <ClCompile Include="2.11double-vector.cpp" />
+    <ClCompile Include="2.12unique-algorithm.cpp" />
+    <ClCompile Include="2.13set-difference-algorithm.cpp" />
     <ClCompile Include="2.1template-print.cpp" />
     <ClCompile Include="2.2work-check.cpp" />
     <ClCompile Include="2.3wagons.cpp" />

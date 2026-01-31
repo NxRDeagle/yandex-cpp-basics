@@ -6,8 +6,6 @@
 #include <utility>
 #include <vector>
 
-#define ACTIVE_MAIN
-
 #ifdef ACTIVE_MAIN
 int main() {
     size_t m, n;
