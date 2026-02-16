@@ -3,8 +3,6 @@
 #include <algorithm>
 #include <iterator>
 
-#define ACTIVE_MAIN
-
 template <typename InIter1, typename InIter2, typename OutIter>
 OutIter SetDifference(InIter1 first1, InIter1 last1, InIter2 first2, InIter2 last2, OutIter out) {
     auto it1 = first1;
